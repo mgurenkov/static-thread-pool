@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool", "FixedThreadPool\FixedThreadPool.csproj", "{AADCA2FF-C511-4934-8D06-90FB4DE58850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{D0FF9030-FEE2-4197-96D3-CDF6EABBC144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADCA2FF-C511-4934-8D06-90FB4DE58850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADCA2FF-C511-4934-8D06-90FB4DE58850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADCA2FF-C511-4934-8D06-90FB4DE58850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADCA2FF-C511-4934-8D06-90FB4DE58850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FF9030-FEE2-4197-96D3-CDF6EABBC144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FF9030-FEE2-4197-96D3-CDF6EABBC144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FF9030-FEE2-4197-96D3-CDF6EABBC144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FF9030-FEE2-4197-96D3-CDF6EABBC144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
